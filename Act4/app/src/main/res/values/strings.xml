@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Act4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ins">Insertar</string>
+    <string name="act">Supr bd</string>
+    <string name="elim">Eliminar</string>
+    <string name="cons">Consultar</string>
+    <string name="inter">Interfaz</string>
+</resources>
